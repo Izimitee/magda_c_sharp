@@ -1,0 +1,14 @@
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\Magda_c_sharp.exe.config
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\Magda_c_sharp.exe
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\Magda_c_sharp.pdb
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\MySql.Data.dll
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\bin\Debug\MySql.Data.xml
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.csprojAssemblyReference.cache
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.Form1.resources
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.Properties.Resources.resources
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.csproj.GenerateResource.cache
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.csproj.CopyComplete
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.exe
+C:\Users\Sebastião\Documents\GitHub\magda_c_sharp\Magda_c_sharp\Magda_c_sharp\obj\Debug\Magda_c_sharp.pdb
